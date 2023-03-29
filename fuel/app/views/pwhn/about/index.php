@@ -33,7 +33,10 @@
             </div>
             <div class="text">
             <h5>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sapien nunc, iaculis vitae ante vitae, bibendum dictum orci. Proin dapibus urna sed aliquet facilisis. Pellentesque posuere urna ut dolor blandit, eget interdum metus tincidunt. Mauris quis pharetra lorem. Cras lacus mauris, euismod quis fermentum a, fringilla sed mauris. Curabitur metus ante, ullamcorper vel fermentum maximus, porta sit amet risus. Vestibulum a tellus in nunc porta condimentum. Pellentesque accumsan sagittis odio, id pretium ligula consequat bibendum. Aliquam non elit sed tellus vestibulum dictum. Morbi vel vulputate leo, sed ornare nisi. Phasellus ut leo eget orci rhoncus sodales eu id massa.
+            Alex Glimco
+                Alex
+                Alex
+                Alex
             </h5> 
             </div>
         </div>
