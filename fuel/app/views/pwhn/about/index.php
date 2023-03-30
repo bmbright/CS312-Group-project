@@ -34,9 +34,7 @@
             <div class="text">
             <h5>
             Alex Glimco
-                Alex
-                Alex
-                Alex
+            I wish to use my degree, education, and skills from CSU to better myself as I grow in the industry and ultimately aim to work for a forward-thinking company that values the environment, innovation, and human equality.
             </h5> 
             </div>
         </div>
