@@ -3,15 +3,17 @@
 
 <body>
 
+<div class="page-header">
     <header>
         <hr>
-        <h1>About Us</h1>
+        <h2>About Us</h2>
         <hr>
-        <h2><u>Who is behind Pets with Human Names?</u></h2>
-        <h3>Pets With Human Names is founded by four Colorado State University students studying computer science with a
-            passion for animals.</h3>
+        <h3><u>Who is behind Pets with Human Names?</u></h3>
+        <h4>Pets With Human Names is founded by four Colorado State University students studying computer science with a
+            passion for animals.</h4>
         <hr>
     </header>
+</div>
 
     <div class="container">
         <div class="image">
