@@ -63,7 +63,7 @@
             <h5>
                 Jack Matthews is a sophmore at Colorado State University, and wishes to pursue a degree in computer
                 science to gain a comfortable career.
-                Jack has two gods back at home, Brody and Abbigal, both are German Shorthair Pointers.
+                Jack has two dogs back at home, Brody and Abbigal, both are German Shorthair Pointers.
             </h5>
         </div>
     </div>
@@ -88,7 +88,7 @@
     <footer>
         <hr>
         <p>&copy; Pets with Human Names, 2023</p>
-        <text>Colorado State University - CS312</text>
+        <p>Colorado State University - CS312</p>
         <hr>
     </footer>
 
