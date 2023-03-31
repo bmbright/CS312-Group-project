@@ -22,6 +22,10 @@
 
         <hr>
         <h3><u>Our Furry Friends:</u></h3>
+        <a href="https://ibb.co/n3HdWvF"><img src="https://i.ibb.co/B4XW1x9/IMG-9186.jpg" alt="IMG-9186" border="0" width="150px" height="200px"></a>
+        <a href="https://ibb.co/n3HdWvF"><img src="https://i.ibb.co/B4XW1x9/IMG-9186.jpg" alt="IMG-9186" border="0" width="150px" height="200px></a>
+        <a href="hey"><img src="https://i.ibb.co/B4XW1x9/IMG-9186.jpg" alt="IMG-9186" border="0" width="150px" height="200px></a>
+        <a href="hey"><img src="https://i.ibb.co/B4XW1x9/IMG-9186.jpg" alt="IMG-9186" border="0" width="150px" height="200px></a>
 
 
 
@@ -37,7 +41,7 @@
 <footer>
     <hr>
     <p>&copy; Pets with Human Names, 2023</p>
-    <p>Colorado State University - CS312</p>
+    <text>Colorado State University - CS312</text>
     <hr>
 </footer>
 
