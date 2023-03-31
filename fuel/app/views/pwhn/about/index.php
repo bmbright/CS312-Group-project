@@ -20,7 +20,7 @@
             <br>
 
             <a href="https://ibb.co/94czQyN"><img src="https://i.ibb.co/KsbRTVX/IMG-5361-2.jpg" alt="IMG-5361-2"
-                    border="0" height="400px"></a>
+                    border="0" height="200px"></a>
         </div>
         <div class="text">
             <h4>Cassidy Roberts</h4>
