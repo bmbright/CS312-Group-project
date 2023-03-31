@@ -54,8 +54,8 @@
     <div class="container">
         <div class="image">
             <br>
-            <h4>Jack matthews</h4>
-            <a href="https://ibb.co/94czQyN"><img src="https://imgur.com/MwIDOkA" alt="IMG-5361-2"
+            <h4>Jack Matthews</h4>
+            <a href="https://i.imgur.com/MwIDOkA.jpeg"><img src="https://i.imgur.com/MwIDOkA.jpeg" alt="IMG-5361-2"
                     border="0" height="400px"></a>
         </div>
         <div class="text">
@@ -69,7 +69,7 @@
     <div class="container">
         <div class="image">
             <br>
-            <h4>Brianna</h4>
+            <h4>Brianna Bright</h4>
             <a href="https://ibb.co/94czQyN"><img src="https://i.postimg.cc/brZpRw2w/ProPic.jpg" alt="Brianna Bright PFP"
                     border="0" height="400px"></a>
         </div>
