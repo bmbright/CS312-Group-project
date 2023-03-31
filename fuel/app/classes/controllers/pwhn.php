@@ -22,4 +22,22 @@ class Controller_PWHN extends Controller_Template
         $this->template->yeet = "one?yeet=about";
 	}
 
+    public function action_colortable()
+	{
+        $data = array();
+        $this->template->title= 'Color Table';
+        $this->template->css= 'pwhn.css';
+        $this->template->content = View::forge('pwhn/colortable/index.php',$data);
+        $this->template->yeet = "one?yeet=colortable";
+	}
+
+    public function action_submit()
+	{
+        $data = array();
+        $this->template->title= 'Color Table';
+        $this->template->css= 'pwhn.css';
+        $this->template->content = View::forge('pwhn/colortable/colorTable.php',$data);
+        $this->template->yeet = "colorTable?";
+	}
+
 }
