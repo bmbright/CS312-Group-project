@@ -7,7 +7,7 @@
         <hr>
         <h1>About Us</h1>
         <hr>
-        <h2>Who is behind Pets with Human Names?</h2>
+        <h2><u>Who is behind Pets with Human Names?</u></h2>
         <h3>Pets With Human Names is founded by four Colorado State University students studying computer science with a
             passion for animals.</h3>
         <hr>
@@ -92,6 +92,7 @@
     <footer>
         <hr>
         <p>&copy; Pets with Human Names, 2023</p>
+        <text>Colorado State University - CS312</text>
         <hr>
     </footer>
 
