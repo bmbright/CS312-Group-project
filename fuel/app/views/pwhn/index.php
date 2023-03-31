@@ -9,4 +9,10 @@
         <hr>
     </header>
 
+    <footer>
+        <hr>
+        <p>&copy; Pets with Human Names, 2023</p>
+        <hr>
+    </footer>
+
 </html>
