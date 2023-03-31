@@ -72,17 +72,13 @@
         <div class="image">
             <br>
             <h4>Brianna</h4>
-            <a href="https://ibb.co/94czQyN"><img src="https://i.ibb.co/KsbRTVX/IMG-5361-2.jpg" alt="IMG-5361-2"
+            <a href="https://ibb.co/94czQyN"><img src="https://i.postimg.cc/brZpRw2w/ProPic.jpg" alt="Brianna Bright PFP"
                     border="0" height="400px"></a>
         </div>
         <div class="text">
-            <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sapien nunc, iaculis vitae ante vitae,
-                bibendum dictum orci. Proin dapibus urna sed aliquet facilisis. Pellentesque posuere urna ut dolor
-                blandit, eget interdum metus tincidunt. Mauris quis pharetra lorem. Cras lacus mauris, euismod quis
-                fermentum a, fringilla sed mauris. Curabitur metus ante, ullamcorper vel fermentum maximus, porta sit
-                amet risus. Vestibulum a tellus in nunc porta condimentum. Pellentesque accumsan sagittis odio, id
-                pretium ligula consequat bibendum. Aliquam non elit sed tellus vestibulum dictum. Morbi vel vulputate
-                leo, sed ornare nisi. Phasellus ut leo eget orci rhoncus sodales eu id massa.
+            <h5>
+                Brianna Bright is in her last semester at CSU. She plans do one more Disney College Program before hopefully tranfersing into her dream job creating new
+                attractions and interactive elements for the Disney Parks. Brianna has three dogs at home, Hank and Stitch the French Bulldogs, and Gabby the Cane Corso.
             </h5>
         </div>
     </div>
