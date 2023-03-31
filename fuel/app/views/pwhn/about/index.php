@@ -9,9 +9,7 @@
             <h2>About Us</h2>
             <hr>
             <h3><u>Who is behind Pets with Human Names?</u></h3>
-            <h4>Pets With Human Names is founded by four Colorado State University students studying computer science
-                with a
-                passion for animals.</h4>
+            <p>Pets with Human Names was founded by four Colorado State University students studying computer science who have a passion for animals.</p>
             <hr>
         </header>
     </div>
@@ -24,7 +22,7 @@
                     alt="CassidyRoberts"></a>
         </div>
         <div class="text">
-            <h4>Cassidy Roberts</h4>
+            <h4><u>Cassidy Roberts</u></h4>
             <h5>Cassidy Roberts is a sophomore at Colorado State University pursuing a degree in Computer Science. With
                 a passion for web development, specifically front-end development, Cassidy is constantly seeking new
                 challenges and opportunities to expand her knowledge and skills in this field.
@@ -43,7 +41,7 @@
                     alt="AlexGlimco"></a>
         </div>
         <div class="text">
-            <h4>Alex Glimco</h4>
+            <h4><u>Alex Glimco</u></h4>
             <h5>
                 Alex Glimco wishes to use his degree, education, and skills from CSU to better himself as he grows in
                 the industry and
@@ -61,7 +59,7 @@
                     alt="JackMatthews"></a>
         </div>
         <div class="text">
-            <h4>Jack Matthews</h4>
+            <h4><u>Jack Matthews</u></h4>
             <h5>
                 Jack Matthews is a sophmore at Colorado State University, and wishes to pursue a degree in computer
                 science to gain a comfortable career.
@@ -77,7 +75,7 @@
                     alt="BriannaBright"></a>
         </div>
         <div class="text">
-            <h4>Brianna Bright</h4>
+            <h4><u>Brianna Bright</u></h4>
             <h5>
                 Brianna Bright is in her last semester at CSU. She plans do one more Disney College Program before
                 hopefully tranfersing into her dream job creating new
@@ -86,8 +84,6 @@
             </h5>
         </div>
     </div>
-
-    <hr>
 
     <footer>
         <hr>
