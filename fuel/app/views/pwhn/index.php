@@ -5,7 +5,7 @@
 
 <header>
         <hr>
-        <h1>HOME</h1>
+        <h1>Home</h1>
         <hr>
         <h3>Welcome to Pets Without Names!</h3>
         <p>We are a pet shelter located in Fort Collins, Colorado, run by four passionate computer science students at Colorado State University. Our mission is to provide a safe and loving home for pets in need, while also giving them the chance to find their forever families.</p>
