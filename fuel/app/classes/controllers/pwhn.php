@@ -36,6 +36,15 @@ class Controller_PWHN extends Controller_Template
         $this->template->direction2 = "two?direction=colortable";
 	}
 
+        public function action_table()
+	{
+        $data = array();
+        $this->template->title= 'Color Table';
+        $this->template->css= 'pwhn.css';
+        $this->template->content = View::forge('pwhn/table/colorTable.php',$data);
+        $this->template->direction = "one?direction=table";
+        $this->template->direction2 = "two?direction=table";
+	}
     public function action_one()
 	{
         $data = array();
