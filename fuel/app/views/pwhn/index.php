@@ -22,8 +22,9 @@
 
         <hr>
         <h3><u>Our Furry Friends:</u></h3>
-
-
+        <a href="https://ibb.co/n3HdWvF"><img src="https://i.ibb.co/B4XW1x9/IMG-9186.jpg" alt="IMG-9186" border="0" height="300px"></a>
+        <a href="https://ibb.co/n3HdWvF"><img src="https://i.ibb.co/B4XW1x9/IMG-9186.jpg" alt="IMG-9186" border="0" height="300px"></a>
+        
 
 
         
