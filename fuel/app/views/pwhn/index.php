@@ -37,7 +37,7 @@
 <footer>
     <hr>
     <p>&copy; Pets with Human Names, 2023</p>
-    <text>Colorado State University - CS312</text>
+    <p>Colorado State University - CS312</p>
     <hr>
 </footer>
 
