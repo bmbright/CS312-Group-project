@@ -15,8 +15,9 @@
 <div class="logo"><a><img src="https://i.imgur.com/1GjCd3S.png" alt="PetsWithHumanNamesLogo" height="200px"></a></div>
     <h1>Pets with Human Names</h1>
     <ul>
-        <?php echo '<li><a href="https://cs.colostate.edu:4444/~alexpcg/m1/pwhn/index/'.$yeet.'">Home</a></li>' ?>
-        <?php echo '<li><a href="https://cs.colostate.edu:4444/~alexpcg/m1/pwhn/index/about/'.$yeet.'">About</a></li>' ?>
+        <?php echo '<li><a href="https://cs.colostate.edu:4444/~bmbright/m1/pwhn/index/'.$yeet.'">Home</a></li>' ?>
+        <?php echo '<li><a href="https://cs.colostate.edu:4444/~bmbright/m1/pwhn/index/about/'.$yeet.'">About</a></li>' ?>
+        <?php echo '<li><a href="https://cs.colostate.edu:4444/~bmbright/m1/pwhn/index/colorTable/'.$yeet.'">ColorTable</a>'?>
     </ul>
 </header>
 
