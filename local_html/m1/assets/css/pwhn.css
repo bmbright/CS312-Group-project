@@ -114,6 +114,7 @@ li.dropdown {
   max-height:100%;
 }
 
+<<<<<<< Updated upstream
 
 
 
@@ -123,6 +124,14 @@ li.dropdown {
 
 
 
+=======
+/* Table Formating */
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: white;
+}
+>>>>>>> Stashed changes
 
 /* Footer */
 footer {
