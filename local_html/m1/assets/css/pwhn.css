@@ -93,6 +93,22 @@ table, th, td {
   background-color: white;
 }
 
+.col1 {
+  width: 20%;
+}
+.col2 {
+  width: 80%;
+}
+
+#warn {
+  display: none;
+}
+
+#colorPickerTable {
+  width: 90%;
+}
+
+
 /* Footer */
 footer {
   background-color: #F3EACE;
