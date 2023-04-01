@@ -4,7 +4,7 @@
 <div class="page-header">
     <header>
         <hr>
-        <h2>HOME</h2>
+        <h2>Home</h2>
         <hr>
 
         <h3><u>Welcome to Pets with Human Names!</u></h3>
@@ -22,13 +22,11 @@
 
         <hr>
         <h3><u>Our Furry Friends:</u></h3>
-        <a href="https://ibb.co/n3HdWvF"><img src="https://i.ibb.co/B4XW1x9/IMG-9186.jpg" alt="IMG-9186" border="0" height="300px"></a>
-        <a href="https://ibb.co/n3HdWvF"><img src="https://i.ibb.co/B4XW1x9/IMG-9186.jpg" alt="IMG-9186" border="0" height="300px"></a>
-
-
-
+        <a><img src="https://i.ibb.co/B4XW1x9/IMG-9186.jpg" alt="CassidysDogYogi" border="0" height="350px"></a>
+        <a><img src="https://i.ibb.co/rcj7Ynj/download.png" alt="AlexsDogYogi" border="0" height="350px"></a>
         
     </header>
+    
 </div>
 
 <body>

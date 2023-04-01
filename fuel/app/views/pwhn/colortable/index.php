@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<body>
-
+<div class="page-header">
     <header>
         <hr>
-        <h1>Color Table</h1>
+        <h2>Color Table</h2>
         <hr>
     </header>
+</div>
+
+<body>
 
     <form action="../table/colorTable.php" method="GET">
         <p>
@@ -22,4 +24,12 @@
     </form>
 
 </body>
+
+<footer>
+    <hr>
+    <p>&copy; Pets with Human Names, 2023</p>
+    <p>Colorado State University - CS312</p>
+    <hr>
+</footer>
+
 </html>
