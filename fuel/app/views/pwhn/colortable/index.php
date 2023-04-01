@@ -11,7 +11,7 @@
 
 <body>
 
-    <form action="../table/colorTable.php" method="POST">
+    <form action="../table/colorTable.php" method="GET">
         <p>
             <label for="rows">Enter number of Rows/Columns:</label>
             <input type="number" name="rows" id="rows" min=1 max=26 required>
