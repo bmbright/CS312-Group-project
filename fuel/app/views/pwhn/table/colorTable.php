@@ -2,13 +2,15 @@
 <html>
     <body>
 
-
+        <p id="warn">
+            Please Select an Unused Color
+        </p>
 
         <table id = "colorPickerTable">
             <?php for ($index = 0; $index < $_GET["colors"]; $index++) : ?> 
                 <tr>
-                    <td>
-                        <select id="<?php echo $index?>" name="color" onchange="DropdownValidation(id)">
+                    <td class = "col1">
+                        <select id="<?php echo $index?>" name="color" onchange="DropdownValidation(id)" onclick="previousColor(id)">
                             <option value="">Select Color...</option>
                             <option value="Red">Red</option>
                             <option value="Orange">Orange</option>
@@ -23,7 +25,7 @@
                         </select>
                     </td>
                         
-                    <td>
+                    <td class = "col2">
                         <p>Placeholder</p>
                     </td>
                 </tr>
@@ -31,6 +33,12 @@
         </table>
             
         <script type= "text/javascript">
+            let previousColorValue;
+
+            function previousColor(ID){
+                var oneDropdown = document.getElementById(ID);
+                previousColorValue = oneDropdown.value;
+            }
             function DropdownValidation(ID){
                 var x = window.location.search;
                 console.log(x);
@@ -39,14 +47,12 @@
                 var colors = y.get('colors');
                 var wholeTable = document.getElementById(ID);
                 var value = wholeTable.value;
-                if (value == "") {
-                    window.alert("Please select an item");
-                    return false;
-                }
+
                 for (var i = 0; i < colors; i++){
                     if (i != ID) {
                         if (value == document.getElementById(i).value){
-                            window.alert("Please select an unused color");
+                            document.getElementById("warn").style.display = "inline";
+                            document.getElementById(i).value = previousColorValue;
                             return false;
                         }
                     }
@@ -78,5 +84,11 @@
             <?php endfor?>
         </table>
         <button onClick="window.print()">Print this page</button>
-    </body>    
+    </body>
+    <footer>
+    <hr>
+    <p>&copy; Pets with Human Names, 2023</p>
+    <text>Colorado State University - CS312</text>
+    <hr>
+</footer>    
 </html>
